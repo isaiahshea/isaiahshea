@@ -16,7 +16,7 @@
 - [Shell based Identity and Access Management](https://www.youtube.com/)
 
 - <h2> 📄 Certifications</h2>
-- <b>  Google Professional Certification</b>  
+- <b>  Google Cybersecurity Professional</b>  
     - Foundations of Cybersecurity
     - Manage Security Risks
     - Network and Network Security

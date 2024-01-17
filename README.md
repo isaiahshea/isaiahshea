@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Geolocation SIEM Monitoring with Azure Sentinel Home Lab](https://github.com/isaiahshea)
+  - [Geolocation SIEM Monitoring with Azure Sentinel Home Lab](https://github.com/isaiahshea/Azure_Sentinel_Lab/tree/main)
      - <b>  Platforms and Tools Used:</b> Azure Virtual Machines, Microsoft Sentinel (SIEM), Log Analytics, Windows Event Viewer
   - [Linux Directory and File Management](https://github.com/isaiahshea)
      - <b>  Platforms and Tools Used:</b> Qwiklabs, Linux OS, Bash, Linux File System and Directory Structure, Linux Permissions and Ownership.
